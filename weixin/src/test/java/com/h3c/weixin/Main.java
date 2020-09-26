@@ -17,10 +17,7 @@ public class Main {
                 }
             }
         }
-        System.out.println("uuuuuuuuuu2222");
-        System.out.println("uuuuuuuuuu");
-        System.out.println("uuuuuuuuuu");
-        System.out.println("uuuuuuuuuu");
+        System.out.println("dev1");
 
         System.out.println(Arrays.toString(arr));
         System.out.println("++++++++++");
